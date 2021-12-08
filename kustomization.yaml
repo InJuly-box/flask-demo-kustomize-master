@@ -7,4 +7,4 @@ resources:
 - secret.yaml
 images:
 - name: ccr.ccs.tencentyun.com/argocd/flask-demo
-  newTag: a323ecb8d8db45096801dff485e2ef5b2705056c
+  newTag: 0a147b514fa7945c20839e7b4e2dc616c9c65bbe
